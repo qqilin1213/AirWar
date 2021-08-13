@@ -1,0 +1,49 @@
+{
+  "__type__": "cc.AnimationClip",
+  "_name": "heroDie",
+  "_objFlags": 0,
+  "_native": "",
+  "_duration": 0.8,
+  "sample": 5,
+  "speed": 2,
+  "wrapMode": 1,
+  "curveData": {
+    "comps": {
+      "cc.Sprite": {
+        "spriteFrame": [
+          {
+            "frame": 0,
+            "value": {
+              "__uuid__": "b41b97a7-1bde-4d50-9cb3-fc2a33055350"
+            }
+          },
+          {
+            "frame": 0.2,
+            "value": {
+              "__uuid__": "ffafadbf-20ca-4c92-9f55-0a455a2e4ed7"
+            }
+          },
+          {
+            "frame": 0.4,
+            "value": {
+              "__uuid__": "3300f971-7267-4272-864b-a60485939397"
+            }
+          },
+          {
+            "frame": 0.6,
+            "value": {
+              "__uuid__": "b335dff2-fbd7-4512-8833-0184bb0463d4"
+            }
+          }
+        ]
+      }
+    }
+  },
+  "events": [
+    {
+      "frame": 0.8,
+      "func": "over",
+      "params": []
+    }
+  ]
+}
